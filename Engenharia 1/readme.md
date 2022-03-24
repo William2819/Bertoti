@@ -71,8 +71,51 @@ O diagrama de classes é usado por engenheiros de software para ilustrar a estru
 <img src = "https://user-images.githubusercontent.com/93256317/159097184-cb335de9-5eb4-4898-a7a4-dde8bb84001d.png"  >
 </div>
  
- 
-> Status do Projeto: Em desenvolvimento :warning:
+## 4.0 Classes do Diagrama
+
+O Diagrama de Classes apresenta o funcionamento de dado software usando o conceito de programação orientado à objetos. Na representação da classe, temos a parte de cima que é o nome, o meio que são os tributos, e por útlimo os métodos da classe (usando os próprios tributos), Usando como metáfora uma pessoa, os tributos seriam as características como nome, peso, altura e os métodos são as funções da pessoa, como por exemplo falar(), comer(), etc.
+
+ <p align="center"> Plataforma de Ensino  </p>
+<div align = "justify">
+<img src = "https://user-images.githubusercontent.com/93256317/159985613-fc5f1f3e-7930-4b7f-8eb2-dd8aa556cd60.png" >
+</div>
+
+<div align = "right">
+<img src = "https://user-images.githubusercontent.com/93256317/159990602-4d90f884-64a0-4c86-8af7-b9eff9e58ca0.png" >
+</div>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center"> Aluno  </p>
+<div align = "justify">
+<img src = "https://user-images.githubusercontent.com/93256317/159986567-2b97ea15-0900-492d-aed0-e9fdd9bae473.png"  >
+</div>
+
+<div align = "right">
+<img src = "https://user-images.githubusercontent.com/93256317/159990991-c7e0e619-64e7-42be-a342-c03dc2613eac.png" >
+</div>
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center"> Professor  </p>
+<div align = "justify">
+<img src = "https://user-images.githubusercontent.com/93256317/159986920-3d8bb4b8-9d33-44f9-8084-df6ae496e8ac.png"  >
+</div>
+
+<div align = "right">
+<img src = "https://user-images.githubusercontent.com/93256317/159991186-f5ff39c5-17b7-4aa4-be42-4b09fce756ef.png" >
+</div>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Complemento das classes Aluno e Professor
+
+<div align = "center">
+<img src = "https://user-images.githubusercontent.com/93256317/159991385-6e612bc8-2c40-4ebc-bcf4-7889ce918c2a.png" >
+</div>
 
 
 
