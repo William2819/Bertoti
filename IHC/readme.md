@@ -17,4 +17,12 @@
 
 #### Acerto:
 <div align=left> 
-<img src="https://user-images.githubusercontent.com/93256317/186430929-089417f8-9692-4d24-8c99-a41bd499859b.png" > </div>
+<img src="https://user-images.githubusercontent.com/93256317/186430929-089417f8-9692-4d24-8c99-a41bd499859b.png" > Site: Wikipédia. Boa visibilidade e compreensão de link. </div>
+
+#### Erro:
+<div align=left> 
+<img src="https://user-images.githubusercontent.com/93256317/186433978-283391ed-9517-4b2b-8615-9383b21472c0.png"> </div>
+
+## 2 - Robusto
+
+<img src="https://user-images.githubusercontent.com/93256317/186434591-6f80f497-6cd9-435c-8257-9da0451f8619.png" </div>
